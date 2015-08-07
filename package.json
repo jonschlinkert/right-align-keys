@@ -1,7 +1,7 @@
 {
   "name": "right-align-keys",
   "description": "Right align the keys of an object.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "homepage": "https://github.com/jonschlinkert/right-align-keys",
   "author": "Jon Schlinkert (https://github.com/jonschlinkert)",
   "repository": "jonschlinkert/right-align-keys",
@@ -30,28 +30,31 @@
   },
   "keywords": [
     "align",
+    "alignment",
     "column",
+    "fill",
     "longest",
     "object",
     "pad",
     "right",
     "table",
+    "text",
     "value",
     "values"
   ],
   "verb": {
     "related": {
       "list": [
-        "right-align-keys",
-        "right-pad-keys",
-        "right-align-values",
-        "right-pad-values",
         "longest",
         "longest-value",
+        "pad-left",
+        "pad-right",
         "repeat-element",
         "repeat-string",
-        "pad-left",
-        "pad-right"
+        "right-align-keys",
+        "right-align-values",
+        "right-pad-keys",
+        "right-pad-values"
       ]
     }
   }

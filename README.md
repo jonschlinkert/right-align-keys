@@ -38,11 +38,11 @@ Results in:
 * [longest-value](https://github.com/jonschlinkert/longest-value): Get the longest value for the given property from an array of objects, or the… [more](https://github.com/jonschlinkert/longest-value)
 * [pad-left](https://github.com/jonschlinkert/pad-left): Left pad a string with zeros or a specified string. Fastest implementation.
 * [pad-right](https://github.com/jonschlinkert/pad-right): Right pad a string with zeros or a specified string. Fastest implementation.
-* [right-pad-keys](https://github.com/jonschlinkert/right-pad-keys): Right pad the keys of an object.
-* [right-align-values](https://github.com/jonschlinkert/right-align-values): Right align the values of a given property for each object in an array. Useful… [more](https://github.com/jonschlinkert/right-align-values)
-* [right-pad-values](https://github.com/jonschlinkert/right-pad-values): Right pad the values of a given property for each object in an array. Useful… [more](https://github.com/jonschlinkert/right-pad-values)
 * [repeat-element](https://github.com/jonschlinkert/repeat-element): Create an array by repeating the given value n times.
 * [repeat-string](https://github.com/jonschlinkert/repeat-string): Repeat the given string n times. Fastest implementation for repeating a string.
+* [right-align-values](https://github.com/jonschlinkert/right-align-values): Right align the values of a given property for each object in an array. Useful… [more](https://github.com/jonschlinkert/right-align-values)
+* [right-pad-keys](https://github.com/jonschlinkert/right-pad-keys): Right pad the keys of an object.
+* [right-pad-values](https://github.com/jonschlinkert/right-pad-values): Right pad the values of a given property for each object in an array. Useful… [more](https://github.com/jonschlinkert/right-pad-values)
 
 ## Running tests
 
