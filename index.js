@@ -9,7 +9,7 @@
 
 var isObject = require('isobject');
 var longest = require('longest');
-var repeat = require('repeat-string');
+var pad = require('pad-left');
 
 module.exports = function rightAlignKeys(obj) {
   if (!isObject(obj)) {
@@ -23,7 +23,7 @@ module.exports = function rightAlignKeys(obj) {
   var len = keys.length, i = -1;
   while (++i < len) {
     var key = keys[i];
-    var prop = repeat(' ', max - key.length) + key;
+    var prop = pad(key, max, ' ');
     res[prop] = obj[key];
   }
   return res;
